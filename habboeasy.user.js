@@ -1,4 +1,4 @@
-// MyHabboPlus Userscript (http://www.MyHabboPlus.com) are under GPLv2: https://www.gnu.org/licenses/gpl-2.0.html
+// Habboeasy Userscript (http://23445.id1945.com) are under GPLv2: https://www.gnu.org/licenses/gpl-2.0.html
 // ==UserScript==
 // @name        Habboeasy
 // @namespace   http://23445.id1945.com
@@ -47,7 +47,7 @@
 // @grant       GM_getResourceURL
 // @grant       GM_xmlhttpRequest
 // @resource    CSSnewhabbo https://raw.github.com/Habboeasy/script/newhabbo.css
-// @resource    CSSmyhabboplus https://raw.github.com/Habboeasy/script/myhabboplus.css
+// @resource    CSSmyhabboplus https://raw.github.com/Habboeasy/script/habboeasy.css
 // @resource    PNGSprites http://i.imgur.com/MhilY5Q.png
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @require     https://raw.github.com/Habboeasy/script/config.js
